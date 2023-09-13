@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Geekyness-Assingnment/static/css/main.3b82c0f2.css",
+    "main.js": "/Geekyness-Assingnment/static/js/main.0ce6d849.js",
+    "index.html": "/Geekyness-Assingnment/index.html",
+    "main.3b82c0f2.css.map": "/Geekyness-Assingnment/static/css/main.3b82c0f2.css.map",
+    "main.0ce6d849.js.map": "/Geekyness-Assingnment/static/js/main.0ce6d849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b82c0f2.css",
+    "static/js/main.0ce6d849.js"
+  ]
+}
